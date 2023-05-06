@@ -4,7 +4,8 @@ Now a day, productivity improvement is a popular topic for any kinds of industry
 # Introduction
 Productivity = INPUT / OUTPUT 
 
-![1234](https://user-images.githubusercontent.com/132740254/236610804-f4347358-d1cd-437c-b48a-cd60c7940f84.jpg)
+
+![1234](https://user-images.githubusercontent.com/132740254/236611656-81a48526-e277-477c-b021-f1ab258b7344.jpg)
 
 # Literature review of work study
 Work study is the investigation process, by means of a consistent system of the work done in a industry, in order to attain the best possible use of the men, machines, materials, available in the building at present
